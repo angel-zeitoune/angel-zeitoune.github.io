@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkangel_zeitoune_github_io=self.webpackChunkangel_zeitoune_github_io||[]).push([[2420],{3769:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
